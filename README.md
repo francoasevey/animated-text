@@ -1,4 +1,5 @@
 # animated-text
 animated text in css
-![fondo](https://user-images.githubusercontent.com/91487119/219823360-34a0f265-51f4-4184-9d8f-4e779398f093.png)
+![fondo](https://user-images.githubusercontent.com/91487119/219823646-7af39626-9ebe-4c69-b65e-bba06f0a0d13.png)
+
 deploy: https://animated-text.vercel.app/
